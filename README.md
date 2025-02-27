@@ -6,9 +6,8 @@ This repository contains various machine learning models for predicting corrosio
 
 1. **Random Forest** (original implementation)
 2. **Gradient Boosting**
-3. **XGBoost**
-4. **Support Vector Regression (SVR)**
-5. **Neural Network** (using TensorFlow)
+3. **Support Vector Regression (SVR)**
+4. **Neural Network** (using TensorFlow)
 
 ## Project Structure
 
